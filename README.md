@@ -4,7 +4,7 @@ Assembled using frames from two Ender 3's. Currently tramming version 1.0.
 
 During said tramming I had a Dimitri Mendeleev style epiphany and decided it was in my best interest to divert my energy to XEBEC-2.
 
-## The rectified reconstruction can be found here: 
+### The rectified reconstruction can be found here: 
 
 # [Link to: XEBEC-2](https://github.com/NootLab/XEBEC-2)
 
